@@ -34,18 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chagit03440/Node-React-Crud.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chagit03440/Node-React-Crud/issues"
-  },
-  "homepage": "https://github.com/chagit03440/Node-React-Crud#readme",
-  "description": ""
+  }
 }
